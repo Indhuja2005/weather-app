@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding:0%;
+  
+
+}
+.container1{
+    width: 100%;
+    height: 100vh;
+    background-color: maroon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    color:white
+}
+.temp{
+    font-size: 4.5rem;
+}
+.location{
+    font-size: 2rem;
+}
+.condition{
+    margin: 0.5rem;
+    margin-left: 0.2rem;
+}
+nav{
+    height: 50px;
+    margin: 5rem;
+    
+}
+.search{
+    padding: 1rem 0;
+    outline:none;
+    border: none;
+    color: black;
+    background-color: transparent;
+    border-bottom:2px solid black;
+    font-size: 1.1rem;
+}
+nav form button{
+    background-color: white;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    outline:none;
+    border:none;
+    cursor: pointer;
+}
